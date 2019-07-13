@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/Controllers/Http/ApiController.js" line="55" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9050ea42-13a5-4fcb-a3de-e42ebf3b1f12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
+              <folding>
+                <element signature="e#305#353#0" />
+                <element signature="e#506#1868#0" />
+                <element signature="e#930#1792#0" />
+                <element signature="e#945#991#0" />
+                <element signature="e#1303#1721#0" />
+                <element signature="e#1359#1501#0" />
+                <element signature="e#1562#1704#0" />
+                <element signature="e#1727#1781#0" />
+                <element signature="e#1817#1860#0" />
+                <element signature="e#1918#4075#0" />
+                <element signature="e#5464#7280#0" />
+                <element signature="e#7325#7404#0" />
+                <element signature="e#7452#7520#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controllers/Http/ApiController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="1428" selection-start-line="1428" selection-end-line="1428" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#ApiController#0" />
+                <element signature="n#!!block;n#register#0;n#ApiController#0" />
+                <element signature="n#!!block;n#login#0;n#ApiController#0" />
+                <element signature="n#!!block;n#profileUpdate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#defaultEnvironmentCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userEnvironmentCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#placeCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#placeUpdate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#placeDelete#0;n#ApiController#0" />
+                <element signature="n#!!block;n#placeList#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userEnvironmentList#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userEnvironmentDelete#0;n#ApiController#0" />
+                <element signature="n#!!block;n#addUserEnvironment#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userEnvironmentalInvitationCard#0;n#ApiController#0" />
+                <element signature="n#!!block;n#generateRandomString#0;n#ApiController#0" />
+                <element signature="n#!!block;n#invitationVerify#0;n#ApiController#0" />
+                <element signature="n#!!block;n#dateCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#permissionCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userEnvironments#0;n#ApiController#0" />
+                <element signature="n#!!block;n#memberGet#0;n#ApiController#0" />
+                <element signature="n#!!block;n#addedMemberGet#0;n#ApiController#0" />
+                <element signature="n#!!block;n#ownerFind#0;n#ApiController#0" />
+                <element signature="n#!!block;n#environmentDetail#0;n#ApiController#0" />
+                <element signature="n#!!block;n#permissionDetail#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userNonAproved#0;n#ApiController#0" />
+                <element signature="n#!!block;n#userApprove#0;n#ApiController#0" />
+                <element signature="n#!!block;n#purchaseStore#0;n#ApiController#0" />
+                <element signature="n#!!block;n#appContract#0;n#ApiController#0" />
+                <element signature="n#!!block;n#chatCreate#0;n#ApiController#0" />
+                <element signature="n#!!block;n#messageSend#0;n#ApiController#0" />
+                <element signature="n#!!block;n#addMessage#0;n#ApiController#0" />
+                <element signature="n#!!block;n#emergency#0;n#ApiController#0" />
+                <element signature="n#!!block;n#lastGeoUpdate#0;n#ApiController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>request.all</find>
+      <find>last-geo-update</find>
+      <find>equest.input('latitude')</find>
+      <find>request.input('latitude')</find>
+      <find>LatestGeoInformation</find>
+      <find>lastGeoUpdate</find>
+      <find>error</find>
+      <find>uid</find>
+      <find>online</find>
+      <find>update(</find>
+      <find>update</find>
+      <find>Database</find>
+      <find>query()</find>
+      <find>async</find>
+      <find>Yeni</find>
+      <find>Kullanıcı Çıkış Yaptı</find>
+      <find>connect</find>
+      <find>socket</find>
+      <find>operation_time</find>
+      <find>time</find>
+      <find>).first();</find>
+      <find>).first()</find>
+      <find>latestGeoDetail</find>
+      <find>this.permissionDetail</find>
+      <find>addedMemberGet</find>
+      <find>memberGet</find>
+      <find>owner'</find>
+      <find>environmentDetail</find>
+      <find>???</find>
+      <find>There's no post available!</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>formattingData</replace>
+      <replace>AdminHook</replace>
+      <replace>)</replace>
+      <replace>email</replace>
+      <replace>16104585</replace>
+      <replace>time</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;bb8d8889-50b0-479b-a0da-d878c3daa6a3&gt;/resources/views/main.edge" />
+        <option value="&lt;bb8d8889-50b0-479b-a0da-d878c3daa6a3&gt;/resources/views/index.edge" />
+        <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/signup.edge" />
+        <option value="&lt;bb8d8889-50b0-479b-a0da-d878c3daa6a3&gt;/resources/views/welcome.edge" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.edge" />
+        <option value="$PROJECT_DIR$/resources/views/index.edge" />
+        <option value="$PROJECT_DIR$/app/Models/Hooks/User.js" />
+        <option value="$PROJECT_DIR$/public/app.js" />
+        <option value="$PROJECT_DIR$/resources/views/layout/partials/jumbotron.edge" />
+        <option value="$PROJECT_DIR$/config/app.js" />
+        <option value="$PROJECT_DIR$/resources/views/layout/app.edge" />
+        <option value="$PROJECT_DIR$/app/Models/Hooks/Admin.js" />
+        <option value="$PROJECT_DIR$/app/Models/Admin.js" />
+        <option value="$PROJECT_DIR$/app/Controllers/Http/AdminController.js" />
+        <option value="$PROJECT_DIR$/config/shield.js" />
+        <option value="$PROJECT_DIR$/app/Controllers/Http/SessionController.js" />
+        <option value="$PROJECT_DIR$/config/auth.js" />
+        <option value="$PROJECT_DIR$/start/kernel.js" />
+        <option value="$PROJECT_DIR$/config/bodyParser.js" />
+        <option value="$PROJECT_DIR$/resources/views/layout/partials/header.edge" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/start/routes.js" />
+        <option value="$PROJECT_DIR$/resources/views/posts/index.edge" />
+        <option value="$PROJECT_DIR$/app/Controllers/Http/PostController.js" />
+        <option value="$PROJECT_DIR$/chat/index.html" />
+        <option value="&lt;bb8d8889-50b0-479b-a0da-d878c3daa6a3&gt;/package.json" />
+        <option value="$PROJECT_DIR$/app/Controllers/Http/ApiController.js" />
+        <option value="$PROJECT_DIR$/chat/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1011" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lifeloops" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifeloops" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Models" />
+      <recent name="$PROJECT_DIR$/app/Controllers/Http" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9050ea42-13a5-4fcb-a3de-e42ebf3b1f12" name="Default Changelist" comment="" />
+      <created>1562575733239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562575733239</updated>
+      <workItem from="1562575734454" duration="971000" />
+      <workItem from="1562576859554" duration="6198000" />
+      <workItem from="1562656029907" duration="2152000" />
+      <workItem from="1562664102761" duration="57000" />
+      <workItem from="1562666384270" duration="11529000" />
+      <workItem from="1562738589918" duration="178000" />
+      <workItem from="1562743077831" duration="1150000" />
+      <workItem from="1562763121563" duration="2496000" />
+      <workItem from="1562824832084" duration="13466000" />
+      <workItem from="1562913662613" duration="665000" />
+      <workItem from="1562915529299" duration="104000" />
+      <workItem from="1563023977699" duration="1000" />
+      <workItem from="1563023982648" duration="1576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56952000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1011" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17891374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28291622" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23394994" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.1936888" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.15654951" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/config/shield.js</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/_views/index.edge" />
+    <entry file="file://$PROJECT_DIR$/resources/_views/login.edge" />
+    <entry file="file://$PROJECT_DIR$/resources/_views/welcome.edge" />
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/app.css" />
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/app.js" />
+    <entry file="file://$PROJECT_DIR$/app/Models/Post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout/partials/jumbotron.edge">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/socket.io-1.2.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27681" selection-start-line="1" selection-start-column="27681" selection-end-line="1" selection-end-column="27681" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/session.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../adonisjs/adonis-blog-demo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Ws/ChatController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout/app.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/session/create.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/AdminController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/SessionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/shield.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/1503248427885_user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="77" column="4" lean-forward="true" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Hooks/Admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="1754" column="90" selection-start-line="1754" selection-start-column="90" selection-end-line="1754" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/icon/edit.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/create.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/icon/trash.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/kernel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bodyParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/splash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/title.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="207" column="25" selection-start-line="207" selection-start-column="25" selection-end-line="207" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout/partials/header.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="111" column="58" lean-forward="true" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/my/xbhp0gyn547467pfblhc1yg40000gn/T/fz3temp-2/LatestGeoInformation.js" />
+    <entry file="file://$PROJECT_DIR$/start/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="60" column="51" lean-forward="true" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/alert.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/posts/partials/form.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/PostController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="n#PostController#0" />
+            <element signature="n#!!block;n#index#0;n#PostController#0" />
+            <element signature="n#!!block;n#create#0;n#PostController#0" />
+            <element signature="e#276#380#0" />
+            <element signature="n#!!block;n#store#0;n#PostController#0" />
+            <element signature="e#478#585#0" />
+            <element signature="e#640#737#0" />
+            <element signature="e#785#841#0" />
+            <element signature="e#848#926#0" />
+            <element signature="e#955#1079#0" />
+            <element signature="e#1085#1204#0" />
+            <element signature="n#!!block;n#edit#0;n#PostController#0" />
+            <element signature="e#1312#1414#0" />
+            <element signature="n#!!block;n#update#0;n#PostController#0" />
+            <element signature="e#1595#1702#0" />
+            <element signature="e#1757#1854#0" />
+            <element signature="e#1902#1958#0" />
+            <element signature="e#1965#2043#0" />
+            <element signature="e#2072#2196#0" />
+            <element signature="e#2202#2375#0" />
+            <element signature="n#!!block;n#delete#0;n#PostController#0" />
+            <element signature="e#2553#2667#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/my/xbhp0gyn547467pfblhc1yg40000gn/T/fz3temp-2/index.js" />
+    <entry file="file://$PROJECT_DIR$/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/posts/index.edge">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/Http/ApiController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="1428" selection-start-line="1428" selection-end-line="1428" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#ApiController#0" />
+            <element signature="n#!!block;n#register#0;n#ApiController#0" />
+            <element signature="n#!!block;n#login#0;n#ApiController#0" />
+            <element signature="n#!!block;n#profileUpdate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#defaultEnvironmentCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userEnvironmentCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#placeCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#placeUpdate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#placeDelete#0;n#ApiController#0" />
+            <element signature="n#!!block;n#placeList#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userEnvironmentList#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userEnvironmentDelete#0;n#ApiController#0" />
+            <element signature="n#!!block;n#addUserEnvironment#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userEnvironmentalInvitationCard#0;n#ApiController#0" />
+            <element signature="n#!!block;n#generateRandomString#0;n#ApiController#0" />
+            <element signature="n#!!block;n#invitationVerify#0;n#ApiController#0" />
+            <element signature="n#!!block;n#dateCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#permissionCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userEnvironments#0;n#ApiController#0" />
+            <element signature="n#!!block;n#memberGet#0;n#ApiController#0" />
+            <element signature="n#!!block;n#addedMemberGet#0;n#ApiController#0" />
+            <element signature="n#!!block;n#ownerFind#0;n#ApiController#0" />
+            <element signature="n#!!block;n#environmentDetail#0;n#ApiController#0" />
+            <element signature="n#!!block;n#permissionDetail#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userNonAproved#0;n#ApiController#0" />
+            <element signature="n#!!block;n#userApprove#0;n#ApiController#0" />
+            <element signature="n#!!block;n#purchaseStore#0;n#ApiController#0" />
+            <element signature="n#!!block;n#appContract#0;n#ApiController#0" />
+            <element signature="n#!!block;n#chatCreate#0;n#ApiController#0" />
+            <element signature="n#!!block;n#messageSend#0;n#ApiController#0" />
+            <element signature="n#!!block;n#addMessage#0;n#ApiController#0" />
+            <element signature="n#!!block;n#emergency#0;n#ApiController#0" />
+            <element signature="n#!!block;n#lastGeoUpdate#0;n#ApiController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
+          <folding>
+            <element signature="e#305#353#0" />
+            <element signature="e#506#1868#0" />
+            <element signature="e#930#1792#0" />
+            <element signature="e#945#991#0" />
+            <element signature="e#1303#1721#0" />
+            <element signature="e#1359#1501#0" />
+            <element signature="e#1562#1704#0" />
+            <element signature="e#1727#1781#0" />
+            <element signature="e#1817#1860#0" />
+            <element signature="e#1918#4075#0" />
+            <element signature="e#5464#7280#0" />
+            <element signature="e#7325#7404#0" />
+            <element signature="e#7452#7520#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
